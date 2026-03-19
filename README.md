@@ -1,4 +1,4 @@
-# OpenGL Winter Scene
+# OpenGL Winter Scene Project
 
 This project is a 3D real-time rendering application developed in C++ using the OpenGL graphics. It was created as part of the Graphic Processing course.
 
